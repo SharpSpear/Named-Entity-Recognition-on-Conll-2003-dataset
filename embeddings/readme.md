@@ -1,0 +1,1 @@
+pls insert the glove.6B.100d.txt here
